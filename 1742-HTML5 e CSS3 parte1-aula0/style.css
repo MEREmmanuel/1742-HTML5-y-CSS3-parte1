@@ -1,3 +1,17 @@
+body{
+    background: #000000;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
 p{
     text-align: center;
+    color: white;
+}
+
+em strong{
+    color: red;
 }
