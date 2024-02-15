@@ -2,9 +2,17 @@ body{
     background: #000000;
 }
 
+#banner{
+    width: 100%;
+}
+
 h1{
     color: white;
     text-align: center;
+    height: 150px;
+    border: 10px solid #ffffff;
+    padding: 20px;
+    margin: 40px;
 }
 
 p{
