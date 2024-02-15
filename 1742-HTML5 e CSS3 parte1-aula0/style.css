@@ -8,6 +8,7 @@ body{
 
 .main{
     background: #000000;
+    padding: 20px;
 }
 
 h1{
@@ -35,6 +36,7 @@ em strong{
 .diferentials{
     background:midnightblue;
     color: #ffffff;
+    padding: 30px;
 }
 
 h2{
@@ -43,4 +45,15 @@ h2{
 
 .items{
     font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.img-diferentials{
+    width: 50%;
 }
